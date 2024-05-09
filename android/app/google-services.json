@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366027234839",
+    "project_id": "r-s-eats",
+    "storage_bucket": "r-s-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366027234839:android:c8e87d1438b0621eb64652",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7y0_g_u79yqOXXFZsqCTSNbBR2XWjMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
